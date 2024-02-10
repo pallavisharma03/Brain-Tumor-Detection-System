@@ -15,6 +15,6 @@ link of trained model - https://drive.google.com/file/d/167Gs6sY8Y1uYTvkZlTGLNak
 
 link for the dataset - https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download
 
-**RESULTS*
+**RESULTS**
 
 <img width="632" alt="Screenshot 2024-02-10 at 11 27 39 AM" src="https://github.com/pallavisharma03/images/assets/137420837/b95f2051-145e-4cdf-a3e7-0846797d4723">
