@@ -1,4 +1,5 @@
 **BRAIN TUMOR DETECTION USING CNN**
+
 Brain tumor categorization is a key issue in medical imaging analysis because it plays an important role in patient diagnosis and therapy planning. The accurate and efficient classification of brain tumors can assist healthcare practitioners in making informed decisions and providing appropriate care. Convolutional neural networks (CNNs) have emerged as a formidable tool for automated image processing, with significant potential in the field of medical picture classification.
 
 The goal of this project is to develop a brain tumor classification system using CNNs. By leveraging the capabilities of CNNs, we aim to create a model that can learn complex patterns and features from brain tumor images, enabling accurate classification and identification of different tumor types.
@@ -13,3 +14,7 @@ To build the brain tumor classification system, the first step would be to colle
 link of trained model - https://drive.google.com/file/d/167Gs6sY8Y1uYTvkZlTGLNakznJTJURSJ/view?usp=sharing//
 
 link for the dataset - https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download
+
+**RESULTS*
+
+<img width="632" alt="Screenshot 2024-02-10 at 11 27 39 AM" src="https://github.com/pallavisharma03/images/assets/137420837/b95f2051-145e-4cdf-a3e7-0846797d4723">
